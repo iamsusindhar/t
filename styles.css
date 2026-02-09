@@ -1243,7 +1243,7 @@ padding: 30px 0;
 /* --- 2. TABLET / SMALL LAPTOPS (Max Width: 1024px) --- */
 @media screen and (max-width: 1024px) {
     
-    body { padding: 0 40px; }
+    body { padding: 0 60px; }
     
     /* Hero: Stack Content */
     .hero {
@@ -1462,3 +1462,4 @@ padding: 30px 0;
     .footer-socials { justify-content: center; }
 
 }
+
