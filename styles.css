@@ -27,7 +27,7 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    padding: 0 80px;
+    padding: 0 60px;
     background-color: var(--bg);
     color: var(--text);
 }
@@ -1460,4 +1460,5 @@ padding: 30px 0;
     .footer-links { grid-template-columns: 1fr; gap: 40px; text-align: left; }
     .footer-bottom { flex-direction: column; gap: 20px; text-align: center; }
     .footer-socials { justify-content: center; }
+
 }
